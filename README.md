@@ -1,2 +1,11 @@
 ### Hi there 👋
-## I like creating random projects and never finishing them, and procrastination too! (don't wanna forget that one!)
+## I'm Jelly :o
+
+I like:
+- Creating random projects
+- Never finishing any of them
+- Procrastination!
+- (don't wanna forget that last one!)- Creating random projects
+- Never finishing any of them
+- Procrastination!
+- (don't wanna forget that last one!)
