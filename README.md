@@ -6,3 +6,10 @@ I like:
 - Never finishing any of them
 - Procrastination!
 - (don't wanna forget that last one!)
+
+I'm also working on:
+- [Bound](https://www.kingjellycycle.com/projects/Bound/)
+- [Deimos](https://www.kingjellycycle.com/projects/Deimos/)
+
+I don't really have much else here :D
+Have a wonderful day! yeyeye!
