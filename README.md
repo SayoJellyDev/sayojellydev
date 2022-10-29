@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiiiii!
 ## I'm Jelly :o
 
 I like:
@@ -12,7 +12,7 @@ I'm also working on:
 - [Deimos](https://www.kingjellycycle.com/projects/Deimos/)
 
 I've also finished projects:
-- [Potatech website](https://www.kingjellycycle.com/projects/Potatech)
+- [Potatech website](https://www.kingjellycycle.com/projects/potatech)
 
 
 I don't really have much else here :D
