@@ -9,8 +9,8 @@ I like:
 - (don't wanna forget that last one!)
 
 I'm also working on (Sometimes):
-- [Bound](https://www.kingjellycycle.com/projects/Bound/)
-- [Deimos](https://www.kingjellycycle.com/projects/Deimos/)
+- [Bound](https://www.sayo.dev/projects/Bound/)
+- [Deimos](https://www.sayo.dev/projects/Deimos/)
 
 I've also finished projects:
 - [Potatech website](https://www.sayo.dev/projects/potatech)
