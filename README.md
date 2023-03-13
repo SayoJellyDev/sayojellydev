@@ -11,6 +11,9 @@ I like:
 - (don't wanna forget that last one!)
 
 I'm also working on (Sometimes):
+- Private Project (for now)
+
+I had worked on these (but dropped them):
 - [Bound](https://www.sayo.dev/projects/Bound/)
 - [Deimos](https://www.sayo.dev/projects/Deimos/)
 
