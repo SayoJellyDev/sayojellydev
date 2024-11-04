@@ -10,15 +10,8 @@ I like:
 - Procrastination!
 - (don't wanna forget that last one!)
 
-I'm also working on (Sometimes):
-- Private Project (for now)
-
-I had worked on these (but dropped them):
-- [Bound](https://www.sayo.dev/projects/Bound/)
-- [Deimos](https://www.sayo.dev/projects/Deimos/)
-
-I've also finished these projects:
-- [Potatech website](https://sayo.dev/commissions/potatech)
+Did some work here:
+- [Potatech website](https://potato.sayo.dev)
 
 
 I don't really have much else here :D
